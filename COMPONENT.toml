@@ -3,7 +3,7 @@ name = "SigmaOS-ntp"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "ntp component"
+description = "NTP"
 upstream = []
 
 [contract]
