@@ -4,6 +4,9 @@
 //! Real implementation: ntp_items, events, validation, deterministic storage.
 //! Replaces the placeholder stub.
 
+/// NTP client module.
+pub mod sigmantp;
+
 use std::collections::BTreeMap;
 use std::fmt;
 

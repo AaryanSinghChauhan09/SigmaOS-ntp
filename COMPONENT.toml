@@ -7,7 +7,7 @@ description = "NTP"
 upstream = []
 
 [contract]
-provides = ["component"]
+provides = ["sigmantp"]
 depends_on = []
 
 [maturity]
